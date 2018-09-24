@@ -17,9 +17,11 @@ Para instalar e utilizar o sistema normalmente recomenda-se que o computador ond
 
  # Instalação do sistema
 
-Windows: A instalação é feita normalmente, sem ressalvas, como na grande maioria dos softwares. Depois de instalado, o usuário poderá acessá-lo no menu iniciar ou na área de trabalho, caso tenha optado em criar o atalho na instalação. 
+Windows: https://github.com/jcgomes/ReLix/raw/master/ReLix_V1_Windows.zip
+A instalação é feita normalmente, sem ressalvas, como na grande maioria dos softwares. Depois de instalado, o usuário poderá acessá-lo no menu iniciar ou na área de trabalho, caso tenha optado em criar o atalho na instalação. 
 
-Linux: A versão do ReLix para Linux é portátil, ou seja, não necessita ser instalada, porém tem pré-requisitos. Seguir as instruções abaixo (é necessário ter privilégios administrativos):
+Linux: https://github.com/jcgomes/ReLix/raw/master/relix_V1_Linux_Portable.zip
+A versão do ReLix para Linux é portátil, ou seja, não necessita ser instalada, porém tem pré-requisitos. Seguir as instruções abaixo (é necessário ter privilégios administrativos):
 
     • Abra o terminal, digite sudo apt-get install qt-sdk e pressione enter. Será feito uma pergunta, responda sim, digitando a letra s e pressionando enter novamente. Aguarde o fim da instalação;
     • Baixe e extraia a versão Linux do ReLix, onde for mais conveniente. O diretório ReLix será criado;
