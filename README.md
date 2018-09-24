@@ -29,3 +29,4 @@ A versão do ReLix para Linux é portátil, ou seja, não necessita ser instalad
     • Agora você pode acessar o ReLix normalmente, clicando duas vezes sobre o executável.
 
 Recomenda-se a leitura completa do manual. No sistema ele pode ser acessado através do menu Ajuda.
+https://github.com/jcgomes/ReLix/blob/master/manual.pdf
