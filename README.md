@@ -17,7 +17,7 @@ Para instalar e utilizar o sistema normalmente recomenda-se que o computador ond
 
  # Instalação do sistema
 
-Windows: https://github.com/jcgomes/ReLix/raw/master/ReLix_V1_Windows.zip
+Windows: https://github.com/jcgomes/ReLix/raw/master/ReLix_v1_Windows.exe
 A instalação é feita normalmente, sem ressalvas, como na grande maioria dos softwares. Depois de instalado, o usuário poderá acessá-lo no menu iniciar ou na área de trabalho, caso tenha optado em criar o atalho na instalação. 
 
 Linux: https://github.com/jcgomes/ReLix/raw/master/relix_V1_Linux_Portable.zip
