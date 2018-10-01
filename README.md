@@ -17,18 +17,13 @@ Para instalar e utilizar o sistema normalmente recomenda-se que o computador ond
 
  # Instalação do sistema
 
-Windows: https://github.com/jcgomes/ReLix/raw/master/ReLix_v1_Windows.exe
-A instalação é feita normalmente, sem ressalvas, como na grande maioria dos softwares. Depois de instalado, o usuário poderá acessá-lo no menu iniciar ou na área de trabalho, caso tenha optado em criar o atalho na instalação. 
+Windows: A instalação é feita normalmente, sem ressalvas, como na grande maioria dos softwares. Depois de instalado, o usuário poderá acessá-lo no menu iniciar ou na área de trabalho, caso tenha optado em criar o atalho na instalação. Arquivo de instalação para Windows:  https://github.com/jcgomes/ReLix/raw/master/ReLix_v1_Windows.exe 
 
-Linux: https://github.com/jcgomes/ReLix/raw/master/ReLix_V1_Linux_Portable.zip
-A versão do ReLix para Linux é portátil, ou seja, não necessita ser instalada, porém tem pré-requisitos. Seguir as instruções abaixo (é necessário ter privilégios administrativos):
+Linux: A versão do ReLix para Linux é portátil, ou seja, não necessita ser instalada, porém tem pré-requisitos. Seguir as instruções abaixo (é necessário ter privilégios administrativos):
 
-    1) Abra o terminal, digite sudo apt-get install qt-sdk e pressione enter. Será feito uma pergunta, responda sim, digitando a letra s e pressionando enter novamente. Aguarde o fim da instalação;
-
-    2) Baixe e extraia a versão Linux do ReLix, onde for mais conveniente. O diretório relix será criado;
-
-    3) Dentro do diretório ReLix, abra um terminal e entre com o seguinte código: sudo chmod 777 ./relix
-
+    1) Abra o terminal e entre com o código sudo apt-get install qt-sdk entre com a senha de administrador, confirme a instalação e aguarde o fim da instalação dos pré-requisitos;
+    2) Baixe e extraia a versão Linux do ReLix, onde for mais conveniente. O diretório “relix” será criado; https://github.com/jcgomes/ReLix/raw/master/ReLix_V1_Linux_Portable.zip
+    3) Dentro do diretório “relix”, abra um terminal e digite sudo chmod 777 ./relix 
     4) Agora você pode acessar o ReLix normalmente, clicando duas vezes sobre o executável (relix).
 
 Recomenda-se a leitura completa do manual. No sistema ele pode ser acessado através do menu Ajuda.
