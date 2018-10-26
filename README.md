@@ -19,7 +19,7 @@ Para instalar e utilizar o sistema normalmente recomenda-se que o computador ond
 
 A instalação do ReLix pode ser obtida a partir do seguinte repositório: https://github.com/jcgomes/relix
 
-Windows: Existem dois tipos de versão para Windows. A versão instalável (para computadores sem restrição quanto a instalação de programas) e a versão portátil (para computadores com restrição quanto a instalação de programas). 
+## Windows: Existem dois tipos de versão para Windows. A versão instalável (para computadores sem restrição quanto a instalação de programas) e a versão portátil (para computadores com restrição quanto a instalação de programas). 
 
 Versão portátil: https://github.com/jcgomes/ReLix/raw/master/ReLix_V1_Windows_Portable.zip 
 
