@@ -4,6 +4,8 @@ ReLix é uma ferramenta de apoio à decisão desenvolvida para auxiliar o diagn�
 
 O programa foi projetado e desenvolvido para ser fácil de uso e entendimento. As telas são todas padronizadas, ou seja, as telas de consulta possuem os mesmos objetos nos mesmos lugares, bem como as telas de cadastro. 
 
+Manual do programa: https://github.com/jcgomes/ReLix/blob/master/manual.pdf
+
 # Requisitos do sistema
 
 Para instalar e utilizar o sistema normalmente recomenda-se que o computador onde ele será instalado, atenda no mínimo aos seguintes requisitos:
@@ -38,10 +40,7 @@ A versão do ReLix para Linux é portátil, ou seja, não necessita ser instalad
 
 Para acessar o programa, seguir as instruções abaixo (é necessário ter privilégios administrativos):
 
-    1. Abra o terminal e entre com o código sudo apt-get install qt-sdk entre com a senha de administrador, confirme a instalação e aguarde o fim da instalação dos pré-requisitos;
-    2. Baixe e extraia a versão Linux do ReLix, onde for mais conveniente;
-    3. O diretório “relix” será criado. Dentro dele, abra um terminal e digite sudo chmod 777 ./relix
-    5. Dentro do diretório “relix”, acessar programa normalmente, clicando duas vezes sobre o executável chamado “relix”.
-
-Recomenda-se a leitura completa do manual. No sistema ele pode ser acessado através do menu Ajuda.
-https://github.com/jcgomes/ReLix/blob/master/manual.pdf
+* Abra o terminal e entre com o código sudo apt-get install qt-sdk entre com a senha de administrador, confirme a instalação e aguarde o fim da instalação dos pré-requisitos;
+* Baixe e extraia a versão Linux do ReLix, onde for mais conveniente;
+* O diretório “relix” será criado. Dentro dele, abra um terminal e digite sudo chmod 777 ./relix
+* Dentro do diretório “relix”, acessar programa normalmente, clicando duas vezes sobre o executável chamado “relix”.
