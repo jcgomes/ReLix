@@ -40,7 +40,7 @@ A versão do ReLix para Linux é portátil, ou seja, não necessita ser instalad
 
 Para acessar o programa, seguir as instruções abaixo (é necessário ter privilégios administrativos):
 
-* Abra o terminal e entre com o código sudo apt-get install qt-sdk entre com a senha de administrador, confirme a instalação e aguarde o fim da instalação dos pré-requisitos;
+* Abra o terminal e entre com o código *sudo apt-get install qt-sdk* entre com a senha de administrador, confirme a instalação e aguarde o fim da instalação dos pré-requisitos;
 * Baixe e extraia a versão Linux do ReLix, onde for mais conveniente;
-* O diretório “relix” será criado. Dentro dele, abra um terminal e digite sudo chmod 777 ./relix
+* O diretório “relix” será criado. Dentro dele, abra um terminal e digite *sudo chmod 777 ./relix
 * Dentro do diretório “relix”, acessar programa normalmente, clicando duas vezes sobre o executável chamado “relix”.
