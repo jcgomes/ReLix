@@ -29,7 +29,7 @@ Existem duas opções do programa para Windows:
 * Depois de instalado o programa pode ser acessado através do menu iniciar ou pela área de trabalho, caso tenha optado por criar o ícone no momento da instalação. 
 
 2) Portátil: Para computadores com restrição quanto a instalação de programas.
-* Download da versão portátil: https://github.com/jcgomes/ReLix/raw/master/ReLix_v1_Windows_Portable.zip 
+* Download da versão portátil: https://github.com/jcgomes/ReLix/raw/master/ReLix_v1_Windows_Portable.7z 
 * Para acessar o programa na versão portátil, seguir as instruções abaixo:
     1. Baixe e extraia o ReLix, onde for mais conveniente. É necessário ter o compactador 7zip instalado para extrair o programa;
     2. O diretório “relix” será criado. Dentro dele, acessar programa normalmente clicando duas vezes sobre o
