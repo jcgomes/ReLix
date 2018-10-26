@@ -33,9 +33,10 @@ Existem duas opções do programa para Windows:
     2. O diretório “relix” será criado. Dentro dele, acessar programa normalmente clicando duas vezes sobre o
     executável chamado “relix”.
 
-Linux: A versão do ReLix para Linux é portátil, ou seja, não necessita ser instalada, porém tem pré-requisitos. Está disponível para download no seguinte endereço: https://github.com/jcgomes/ReLix/raw/master/ReLix_V1_Linux_Portable.zip
+# Linux: 
+A versão do ReLix para Linux é portátil, ou seja, não necessita ser instalada, porém tem pré-requisitos. Está disponível para download no seguinte endereço: https://github.com/jcgomes/ReLix/raw/master/ReLix_V1_Linux_Portable.zip
 
-Seguir as instruções abaixo (é necessário ter privilégios administrativos):
+Para acessar o programa, seguir as instruções abaixo (é necessário ter privilégios administrativos):
 
     1. Abra o terminal e entre com o código sudo apt-get install qt-sdk entre com a senha de administrador, confirme a instalação e aguarde o fim da instalação dos pré-requisitos;
     2. Baixe e extraia a versão Linux do ReLix, onde for mais conveniente;
