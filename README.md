@@ -19,14 +19,16 @@ Para instalar e utilizar o sistema normalmente recomenda-se que o computador ond
 
 A instalação do ReLix pode ser obtida a partir do seguinte repositório: https://github.com/jcgomes/relix
 
-Windows: A versão do ReLix para Windows é portátil, ou seja, não necessita ser instalada. Está disponível para download no seguinte endereço: https://github.com/jcgomes/ReLix/raw/master/ReLix_V1_Windows_Portable.zip 
+Windows: Existem dois tipos de versão para Windows. A versão instalável (para computadores sem restrição quanto a instalação de programas) e a versão portátil (para computadores com restrição quanto a instalação de programas). 
 
-Seguir as instruções abaixo para poder acessar o programa: 
+Versão portátil: https://github.com/jcgomes/ReLix/raw/master/ReLix_V1_Windows_Portable.zip 
+Versão instalável: https://github.com/jcgomes/ReLix/raw/master/ReLix_v1_Windows.exe
+
+Para acessar o programa na versão portátil, seguir as instruções abaixo:
 
     1. Baixe e extraia o ReLix, onde for mais conveniente;
     2. O diretório “relix” será criado. Dentro dele, acessar programa normalmente clicando duas vezes sobre o
     executável chamado “relix”.
-
 
 Linux: A versão do ReLix para Linux é portátil, ou seja, não necessita ser instalada, porém tem pré-requisitos. Está disponível para download no seguinte endereço: https://github.com/jcgomes/ReLix/raw/master/ReLix_V1_Linux_Portable.zip
 
