@@ -10,12 +10,12 @@ Manual do programa: https://github.com/jcgomes/ReLix/blob/master/manual.pdf
 
 Para instalar e utilizar o sistema normalmente recomenda-se que o computador onde ele será instalado, atenda no mínimo aos seguintes requisitos:
 
-    • Processador i3;
-    • 4GB de memória RAM;
-    • Espaço em HD de no mínimo 1GB (50MB para a instalação e o resto para armazenamento do banco de dados). Caso o usuário trabalhe com vários lixões e municípios recomenda-se mais espaço em HD;
-    • Monitor de 15” ou maior (recomendado 20”);
-    • Sistema Operacional: Windows 7 ou 10, ou Linux;
-    • Leitor de PDF instalado;
+* Processador i3;
+* 4GB de memória RAM;
+* Espaço em HD de no mínimo 1GB (50MB para a instalação e o resto para armazenamento do banco de dados). Caso o usuário trabalhe com vários lixões e municípios recomenda-se mais espaço em HD;
+* Monitor de 15” ou maior (recomendado 20”);
+* Sistema Operacional: Windows 7 ou 10, ou Linux;
+* Leitor de PDF instalado;
 
  # Instalação do sistema
 
